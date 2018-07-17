@@ -1,10 +1,10 @@
 ## Daily-react-041-gradients-app.png
 
-> Challenge: create an a gradients app.
+> Challenge: create a gradients app.
 
-My ongoing submission: https://github.com/jamal7x7/daily-react-041-gradients-app.png
+Work in progress: https://github.com/jamal7x7/daily-react-041-gradients-app
 
-#100DaysOfReact #100DaysOfCode #dailyReact #javascript #react #reactjs #UIDesign #UIUX #UIUXDesign
+
 
 Roadmap:
 
@@ -17,5 +17,9 @@ Roadmap:
 ---
 
 ![Alt text](src/images/daily-react-041-gradients-app.png?raw=true "App UI")
+
+---
+
+#100DaysOfReact #100DaysOfCode #dailyReact #javascript #react #reactjs #UIDesign #UIUX #UIUXDesign
 
 
